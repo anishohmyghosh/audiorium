@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Model artifacts
+*.faiss
+*.pkl
+
+# Audio data (large)
+mp3dataset/
+fma_small/
+*.zip
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Video files
+video/
