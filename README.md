@@ -115,6 +115,16 @@ The GUI is a hybrid of a **text-bar interface** (like ChatGPT) and a **standard 
 - Geolocation (Pokémon GO-style music discovery) was cut from scope
 - Image-to-Audio input was added to make the experience more interactive
 
+### Screenshots
+
+| Search | Results | Artists |
+|:---:|:---:|:---:|
+| ![Search home](assets/audiorium_search_1.png) | ![Search results](assets/audiorium_search_2.png) | ![Artists](assets/audiorium_search_3.png) |
+
+| Explore | Library |
+|:---:|:---:|
+| ![Explore](assets/audiorium_explore.png) | ![Library](assets/audiorium_library.png) |
+
 ---
 
 ## Related Work
