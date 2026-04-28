@@ -3,8 +3,7 @@
 
 > A next-generation, culturally inclusive music recommendation system that surfaces music based on meaning — not popularity, streams, or label affiliation.
 
-**Author:** Anish Ghosh (`axg1652@miami.edu`)  
-**Collaborator:** Yestin Arvin Gochuico  
+**Author:** Anish Ghosh (`axg1652@miami.edu`)   
 **Affiliation:** Department of Music Engineering & Department of Interactive Media, University of Miami  
 **Course:** Design with AI — Fall 2025
 
