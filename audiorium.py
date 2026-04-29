@@ -30,8 +30,8 @@ AUDIO_FOLDER = os.path.join(BASE_DIR, "mp3dataset")
 INDEX_PATH   = os.path.join(BASE_DIR, "clap_music_index.faiss")
 IDS_PATH     = os.path.join(BASE_DIR, "ids.pkl")
 
-SPOTIFY_ID     = "9fb5619d84724d66a569470cc8d03ed2"
-SPOTIFY_SECRET = "0b21b67af7a74961858724fa729ba902"
+SPOTIFY_ID     = "################################" # enter spotipy API credentials here
+SPOTIFY_SECRET = "################################" # enter spotipy API credentials here
 
 # Music mood/genre labels used for OpenCLIP zero-shot image classification
 MUSIC_PROMPTS = [
